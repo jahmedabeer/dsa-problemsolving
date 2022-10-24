@@ -35,15 +35,18 @@ int peek()
 
 // reverse stack value
 void display(){
-    for(int i = top; i > -1; i=i-1)
+    for(int i = top; i >= 0; i=i-1) // i > -1 / i >= 0
         printf("%d ", stack[i]);
-    // i = 0; 0 > -1(true); 0 = 0 - 1 -> printf(stack[0])
+
+    // i = 2; 2 >= 0; -> printf(stack[2])
+    // 2 = 2 - 1; 1 >= 0; -> stact[1]
+    // 1 = 1 - 1; 0 >= 0; -> stack[0]
 }
 
 
 int main()
 {
-    push(20);push(100);
+    push(20);push(100);push(120);
     printf("Peek:%d \n", peek());
     pop();
     
