@@ -1,0 +1,1 @@
+{"name":"Local: call_stack","url":"p:\\presenting_c\\call_stack.c","tests":[{"id":1683467982469,"input":"5\n43 344 4 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\presenting_c\\call_stack.c","group":"local","local":true}

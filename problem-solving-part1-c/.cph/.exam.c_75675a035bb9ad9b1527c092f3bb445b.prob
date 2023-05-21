@@ -1,0 +1,1 @@
+{"name":"Local: exam","url":"p:\\presenting_c\\exam.c","tests":[{"id":1684511106655,"input":"1\n\n5\n1 2 4 4 5\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\presenting_c\\exam.c","group":"local","local":true}

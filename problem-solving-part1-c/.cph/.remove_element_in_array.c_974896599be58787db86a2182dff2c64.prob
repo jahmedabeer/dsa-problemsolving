@@ -1,0 +1,1 @@
+{"name":"Local: remove_element_in_array","url":"p:\\presenting_c\\remove_element_in_array.c","tests":[{"id":1681627065537,"input":"5\n10 20 30 40 50\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\presenting_c\\remove_element_in_array.c","group":"local","local":true}

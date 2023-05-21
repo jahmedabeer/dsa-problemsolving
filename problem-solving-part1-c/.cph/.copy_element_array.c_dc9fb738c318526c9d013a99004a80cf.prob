@@ -1,0 +1,1 @@
+{"name":"Local: copy_element_array","url":"p:\\presenting_c\\copy_element_array.c","tests":[{"id":1681640074212,"input":"5\n10 30 50 60 70\n3\n10 40 50","output":"10 30 50 60 70"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\presenting_c\\copy_element_array.c","group":"local","local":true}

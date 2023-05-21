@@ -1,0 +1,1 @@
+{"name":"Local: Q_Digits","url":"p:\\presenting_c\\Q_Digits.c","tests":[{"id":1681174525830,"input":"456","output":"6 5 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\presenting_c\\Q_Digits.c","group":"local","local":true}

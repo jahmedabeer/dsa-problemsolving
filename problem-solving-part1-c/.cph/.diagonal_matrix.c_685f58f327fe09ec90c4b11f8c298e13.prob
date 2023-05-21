@@ -1,0 +1,1 @@
+{"name":"Local: diagonal_matrix","url":"p:\\presenting_c\\diagonal_matrix.c","tests":[{"id":1684420618239,"input":"3 3\n0 0 3\n0 2 0\n3 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\presenting_c\\diagonal_matrix.c","group":"local","local":true}

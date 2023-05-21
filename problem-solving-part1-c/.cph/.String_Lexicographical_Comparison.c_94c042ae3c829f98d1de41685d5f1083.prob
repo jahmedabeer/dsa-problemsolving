@@ -1,0 +1,1 @@
+{"name":"Local: String_Lexicographical_Comparison","url":"p:\\presenting_c\\String_Lexicographical_Comparison.c","tests":[{"id":1681889065543,"input":"a a","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\presenting_c\\String_Lexicographical_Comparison.c","group":"local","local":true}

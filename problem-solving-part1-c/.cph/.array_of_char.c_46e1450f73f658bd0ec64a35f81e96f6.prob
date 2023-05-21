@@ -1,0 +1,1 @@
+{"name":"Local: array_of_char","url":"p:\\presenting_c\\array_of_char.c","tests":[{"id":1681710963266,"input":"ahmed abeer","output":"Abeer"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\presenting_c\\array_of_char.c","group":"local","local":true}
